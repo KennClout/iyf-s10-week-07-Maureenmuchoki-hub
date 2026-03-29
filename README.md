@@ -8,10 +8,7 @@
 ---
 
 ## Project Description
-This project is a fully functional To-Do List application built using HTML, CSS, and JavaScript.
-
-It allows users to add, complete, delete, and filter tasks.  
-The main focus of this project is **data persistence using localStorage**, meaning tasks remain saved even after refreshing the page.
+This project is a fully functional To-Do List application built using HTML, CSS, and JavaScript. It allows users to add, complete, delete, and filter tasks. The main focus of this project is **data persistence using localStorage**, meaning tasks remain saved even after refreshing the page.
 
 ---
 
