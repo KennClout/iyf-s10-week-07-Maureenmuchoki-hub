@@ -53,5 +53,5 @@ This project is a fully functional To-Do List application built using HTML, CSS,
 
 ## Screenshots
 
-
 ## Live Demo
+[View Live Demo](https://maureenmuchoki-hub.github.io/iyf-s10-week-07-Maureenmuchoki/)
