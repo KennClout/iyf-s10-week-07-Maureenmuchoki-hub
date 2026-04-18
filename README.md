@@ -52,7 +52,7 @@ This project is a fully functional To-Do List application built using HTML, CSS,
 - Synchronizing UI updates with stored data
 
 ## Screenshots
-![My To-Do List App](screenshots/My-To-Do-List.png)
+![My To-Do List App](screenshots/my-to-do-list.png)
 
 ## Live Demo
 [View Live Demo](https://maureenmuchoki-hub.github.io/iyf-s10-week-07-Maureenmuchoki-hub/)
