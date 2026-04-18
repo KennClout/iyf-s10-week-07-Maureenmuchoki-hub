@@ -55,4 +55,4 @@ This project is a fully functional To-Do List application built using HTML, CSS,
 ![My To-Do List App](screenshots/My-To-Do-List.png)
 
 ## Live Demo
-[View Live Demo](https://maureenmuchoki-hub.github.io/iyf-s10-week-07-Maureenmuchoki/)
+[View Live Demo](https://maureenmuchoki-hub.github.io/iyf-s10-week-07-Maureenmuchoki-hub/)
