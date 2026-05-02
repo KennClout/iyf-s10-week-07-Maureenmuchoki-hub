@@ -1,8 +1,8 @@
 # Week 7: Persistent To-Do List App
 
 ## Author
-- **Name:** Maureen Muchoki 
-- **GitHub:** [@Maureenmuchoki](https://github.com/maureenmuchoki-hub).
+- **Name:** KennClout 
+- **GitHub:** [@KennClout](https://github.com/kennclout-hub).
 - **Date:** March 29, 2026  
 
 ---
