@@ -1,8 +1,8 @@
 # Week 7: Persistent To-Do List App
 
 ## Author
-- **Name:** Maureen Muchoki 
-- **GitHub:** [@Maureenmuchoki](https://github.com/maureenmuchoki-hub).
+- **Name:** Kenneth Kabathi 
+- **GitHub:** [@KennClout](https://github.com/Kennclout-hub)  
 - **Date:** March 29, 2026  
 
 ---
@@ -54,5 +54,4 @@ This project is a fully functional To-Do List application built using HTML, CSS,
 ## Screenshots
 ![My To-Do List App](screenshots/my-to-do-list.png)
 
-## Live Demo
-[View Live Demo](https://maureenmuchoki-hub.github.io/iyf-s10-week-07-Maureenmuchoki-hub/)
+
